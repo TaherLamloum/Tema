@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  Tema
+
+  Created by taher elnehr on 11/08/2024.
+  
+*/
+"fontBold"="Cairo-Bold";
+"fontLight"="Cairo-Light";
+"fontRegular"="Cairo-Regular";
+"fontMedium"="Cairo-Medium";
+"rEfontMedium"="Oswald-Medium";
+"ARfontMedium"="Cairo-Medium";
+"ENfontMedium"="Oswald-Medium";
+"reFontRegular"="Oswald-Regular";
+
+//BTNS
+"forgetPasswordBtn"="نسيت كلمة المرور ؟";
+"loginBtn"="دخول الان";
+"registerBtn"="تسجيل";
+"continueAsGuestBtn"="ضيف";
+"termsBtn"="الشروط والاحكام";
+"nextBtn"="التالي";
+"logoutBtn"="خروج";
+
+//LBLS
+"continueAsGuestLbl"="الاستمرار ك";
+"accountLbl"="ليس لديك حساب!";
+"iAgreeLbl"="اوافق علي ";
+"currencyLbl"="د.ك";
+"goldenPackageNameLbl"="الباقة الذهبية";
+"goldenPackageAdsLbl"="عدد الاعلانات: ٢٤";
+"goldenPackageDaysLbl"="عدد الايام: ٣٠";
+"goldenPackagePriceLbl"="١٢٠٠";
+"mediumPackageNameLbl"="الباقة المتوسطة";
+"mediumPackageAdsLbl"="عدد الاعلانات: ٢٠";
+"mediumPackageDaysLbl"="عدد الايام:٢٥";
+"mediumPackagePriceLbl"="١٠٠٠";
+"bluePackageNameLbl"="الباقة الزرقاء";
+"bluePackageAdsLbl"="عدد الاعلانات: ١٥";
+"bluePackageDaysLbl"="عدد الايام: ٢٠";
+"bluePackagePriceLbl"="٨٠٠";
+"greenPackageNameLbl"="الباقة الخضراء";
+"greenPackageAdsLbl"="عدد الاعلانات: ١٢";
+"greenPackageDaysLbl"="عدد الايام: ١٥";
+"greenPackagePriceLbl"="٦٠٠";
+
+"currentLocationLbl"="الموقع الحالي";
+"newAdressLbl"="عنوان جديد";
+"titleLbl"="اختيار او اضافة عنوان";
+
+"editProfileLbl"="تعديل الملف الشخصي";
+"changePasswordLbl"="تغيير كلمة المرور";
+"privateAccountLbl"="حساب خاص";
+"loopedLbl"="تكرار";
+"languageLbl"="English";
+"sendPrivateMessageLbl"="ارسال رسالة خاصة";
+
+//TXTFIELDS
+"emailTxtField"="البريد الاكتروني او الجوال";
+"passwordTxtField"="كلمة المرور";
+"nameTxtField"="الاسم";
+"emailRTxtField"="البريد الالكتروني";
+"mobileTxtField"="الجوال";
+"retypePasswordTxtField"="أعد إدخال كلمه المرور";

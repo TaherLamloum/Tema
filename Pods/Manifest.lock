@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.8.0)
+  - DialCountries (0.1.3)
+  - IQKeyboardManagerSwift (6.5.15)
+  - JGProgressHUD (2.2)
+  - KWVerificationCodeView (0.5.0)
+  - MOLH (1.4.3)
+  - SideMenu (6.5.0)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - DialCountries
+  - IQKeyboardManagerSwift
+  - JGProgressHUD
+  - KWVerificationCodeView
+  - MOLH
+  - SideMenu
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DialCountries
+    - IQKeyboardManagerSwift
+    - JGProgressHUD
+    - KWVerificationCodeView
+    - MOLH
+    - SideMenu
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: 0e92e751b3e9e66d7982db43919d01f313b8eb91
+  DialCountries: 098cb20d88eba888dcc0474060694b545fb36ce1
+  IQKeyboardManagerSwift: 79fab21f451441935788dc5d80ded21c32685904
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  KWVerificationCodeView: 19ea2579877cc4937f5ee16d0e205d487bdb247d
+  MOLH: e45827d200aeb1310641090fd8cd03ad2b42ae72
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+
+PODFILE CHECKSUM: 7aad22aef838203dee3bb11cbe4326b1968f4a0e
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Tema
+
+  Created by taher elnehr on 11/08/2024.
+  
+*/
+"fontBold"="Oswald-Bold";
+"fontLight"="Oswald-Light";
+"fontRegular"="Oswald-Regular";
+"fontMedium"="Oswald-Medium";
+"rEfontMedium"="Cairo-Medium";
+"ARfontMedium"="Cairo-Medium";
+"ENfontMedium"="Oswald-Medium";
+"reFontRegular"="Cairo-Regular";
+
+//BTNS
+"forgetPasswordBtn"="Forget Password?";
+"loginBtn"="Login";
+"registerBtn"="Register";
+"continueAsGuestBtn"="Guest";
+"termsBtn"="Terms & Conditions";
+"nextBtn"="Next";
+"logoutBtn"="LOGOUT";
+
+//LBLS
+"continueAsGuestLbl"="Continue as a";
+"accountLbl"="You don't have account yet!";
+"iAgreeLbl"="I agree for";
+"currencyLbl"="D.K";
+"goldenPackageNameLbl"="Golden Package";
+"goldenPackageAdsLbl"="Ads Number: 24";
+"goldenPackageDaysLbl"="Days Number: 30";
+"goldenPackagePriceLbl"="1200";
+"mediumPackageNameLbl"="Medium Package";
+"mediumPackageAdsLbl"="Ads Number: 20";
+"mediumPackageDaysLbl"="Days Number: 25";
+"mediumPackagePriceLbl"="1000";
+"bluePackageNameLbl"="Blue Package";
+"bluePackageAdsLbl"="Ads Number: 15";
+"bluePackageDaysLbl"="Days Number: 20";
+"bluePackagePriceLbl"="800";
+"greenPackageNameLbl"="Green Package";
+"greenPackageAdsLbl"="Ads Number: 12";
+"greenPackageDaysLbl"="Days Number: 15";
+"greenPackagePriceLbl"="600";
+"currentLocationLbl"="Current location";
+"newAdressLbl"="New adress";
+"titleLbl"="Select or add adress";
+"editProfileLbl"="Edit profile";
+"changePasswordLbl"="Change password";
+"privateAccountLbl"="Private account";
+"loopedLbl"="Looped";
+"languageLbl"="العربية";
+"sendPrivateMessageLbl"="Send private MSG";
+
+//TXTFIELDS
+"emailTxtField"="Email or Mobile";
+"passwordTxtField"="Password";
+"nameTxtField"="Name";
+"emailRTxtField"="Email";
+"mobileTxtField"="Mobile";
+"retypePasswordTxtField"="Re type password";
